@@ -8,7 +8,7 @@ Compiler error: Method with Objective-C selector conflicts with previous declara
 
 在定义一个同样的方法名时出现了如下错误
 
-![Problem1](https://github.com/yyllove123/swift-error/problem1.jpg)
+![Problem1](https://github.com/yyllove123/swift-error/blob/master/problem1.jpg)
 
 	class ViewController: UIViewController {
     
